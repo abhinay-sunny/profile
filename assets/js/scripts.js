@@ -185,7 +185,7 @@ Version      : 1.0
          *  GOOGLE MAP JS
          * ----------------------------------------------------------------------------------------
          */
-        var myCenter = new google.maps.LatLng(23.688272, 90.443162);
+        var myCenter = new google.maps.LatLng(17.498452, 78.322510);
 
         function initialize() {
             var mapProp = {

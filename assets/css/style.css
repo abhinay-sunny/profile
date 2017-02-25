@@ -291,16 +291,16 @@ fieldset {
     color: #1458AB;
 }
 
-.header-social-links li a i.twitter {
-    color: #1DA1F2;
+.header-social-links li a i.gmail {
+    color: #ce4201;
 }
 
-.header-social-links li a i.dribbble {
-    color: #C32361;
+.header-social-links li a i.phone {
+    color: #2de120;
 }
 
-.header-social-links li a i.instagram {
-    color: #7A36AD;
+.header-social-links li a i.github {
+    color: #f3cbb1;
 }
 
 strong.text-rotator span {
@@ -984,6 +984,19 @@ a.read-more:hover {
     background: #FFD504;
     border: 1px solid #FFD504;
     color: #000;
+    -webkit-transition: all 0.4s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.contact-form a{
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+}
+.contact-form a:hover{
+    color: black;
+    background: #FFD504;
+    border-bottom: 1px solid #FFD504;
     -webkit-transition: all 0.4s;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;
